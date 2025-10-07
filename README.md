@@ -18,16 +18,16 @@ CreditCard_Fraud/
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/fidasaleem/CreditCard_Fraud.git
-cd CreditCard_Fraud
+git clone https://github.com/fidasaleem/Credit_Fraud.git
+cd Credit_Fraud
 ```
 2. **Install dependencies**
 ```bash
-pip install -r requirements.txt
+pip install -r Requiremnts.txt
 ```
 3. **Run the Streamlit app**
 ```bash
-streamlit run fraud_app.py
+streamlit run credit_fraud.py
 ```
 
 ## 📊 Project Highlights
